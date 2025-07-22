@@ -1,0 +1,2 @@
+{"__type":"$$EventMessageAudit","id":"75e277a2-3dc6-4e2f-b094-2b1b31c64c8b","ts":"2025-07-22T08:31:03.563+00:00","eventName":"n8n.audit.user.login.success","message":"n8n.audit.user.login.success","payload":{"userId":"b1478674-7de2-4059-b6cb-cdf7d07d7d4c","_email":"aripova.k.n@gmail.com","_firstName":"Каринэ","_lastName":"Арипова","globalRole":"global:owner","authenticationMethod":"email"}}
+{"__type":"$$EventMessageConfirm","confirm":"75e277a2-3dc6-4e2f-b094-2b1b31c64c8b","ts":"2025-07-22T08:31:03.564+00:00","source":{"id":"0","name":"eventBus"}}

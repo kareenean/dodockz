@@ -1,5 +1,4 @@
 import requests
-import uuid  # to generate sessionId
 
 url = "http://localhost:5678/webhook/ai-agent"
 data = {
